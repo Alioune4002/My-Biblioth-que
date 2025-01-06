@@ -22,3 +22,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+eval "$(ssh-agent -s)"
+eval "$(ssh-agent -s)".pub
